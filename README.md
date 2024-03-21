@@ -7,3 +7,4 @@
  - Using Arrow function
  - Using addition assignment (+=) Operator
  - Check if a number is Positive, Negative, or Zero, Using Switch Statement
+ - Check if a number is Positive, Negative, or Zero, Using Ternary Operator
