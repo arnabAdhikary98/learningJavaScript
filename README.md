@@ -7,3 +7,4 @@
  - Using Arrow function
  - Using addition assignment (+=) Operator
  - Check if a number is Positive, Negative, or Zero, Using Switch Statement
+ - Checking if a number is prime or not using Flag variable
