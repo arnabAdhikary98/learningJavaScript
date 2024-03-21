@@ -6,3 +6,4 @@
  - Using function
  - Using Arrow function
  - Using addition assignment (+=) Operator
+ - Check if a number is Positive, Negative, or Zero, Using Switch Statement
