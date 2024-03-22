@@ -9,3 +9,4 @@
  - Check if a number is Positive, Negative, or Zero, Using Switch Statement
  - Check if a number is Positive, Negative, or Zero, Using Ternary Operator
  - Checking if a number is prime or not using Flag variable
+ - Checking if a number is prime or not using Recursive Function
