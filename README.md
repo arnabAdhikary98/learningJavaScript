@@ -1,6 +1,5 @@
 # learningJavaScript
 ## Basics of Java Script Programming 
-### --- Java Script Program to add two Numbers ---
 
  - Adding two numbers using '+' Operator
  - Adding two numbers using function
