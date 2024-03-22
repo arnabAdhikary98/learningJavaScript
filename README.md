@@ -10,3 +10,4 @@
  - Check if a number is Positive, Negative, or Zero, Using Ternary Operator
  - Checking if a number is prime or not using Flag variable
  - Checking if a number is prime or not using Recursive Function
+ - Find the factors of a number using For Loop
