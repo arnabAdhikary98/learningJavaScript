@@ -10,3 +10,4 @@
  - Checking if a number is prime or not using Flag variable
  - Checking if a number is prime or not using Recursive Function
  - Find the factors of a number using For Loop
+ - Compute the power of num using Recursion
