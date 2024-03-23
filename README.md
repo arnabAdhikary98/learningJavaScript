@@ -11,3 +11,5 @@
  - Checking if a number is prime or not using Recursive Function
  - Find the factors of a number using For Loop
  - Compute the power of num using Recursion
+ - Get the first and last item in an array using arr.shift() and arr.pop()
+ - Get the first and last item in an array using arr.slice()
