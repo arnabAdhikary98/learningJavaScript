@@ -2,6 +2,7 @@
 
 function checkWhitespace(str) {
     return /\s/.test(str); //The “\s” metacharacter is used to match the whitespace character.
+                            //.test() is used to test for a match in a string.
 }
 
 let str = 'This is JavaScript'
