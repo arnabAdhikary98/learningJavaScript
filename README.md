@@ -15,3 +15,4 @@
  - Get the first and last item in an array using arr.slice()
  - Reverse an array in JavaScript using .reverse() method
  - Reverse an array in JavaScript using .unshift() and .forEach() method
+ - Check if a String Contains any Whitespace Characters Using regular expressions
